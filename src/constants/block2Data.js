@@ -2,19 +2,19 @@ export const block2Data = {
     data:[
         {
             id:1,
-            image:'https://img.freepik.com/free-photo/doctor-helping-patient-during-rehabilitation_23-2150321625.jpg?size=626&ext=jpg'
+            image:'https://img.freepik.com/premium-psd/vertical-wooden-poster-frame-mockup-standing-near-black-wall-with-easel-room_613230-866.jpg?size=626&ext=jpg'
         },
         {
             id:2,
-            image:'https://img.freepik.com/free-photo/doctor-helping-patient-during-rehabilitation_23-2150321579.jpg?size=626&ext=jpg'
+            image:'https://img.freepik.com/free-psd/banner-template-world-radio-day-with-broadcaster-microphone_23-2148863179.jpg?size=626&ext=jpg'
         },
         {
             id:3,
-            image:'https://img.freepik.com/free-photo/doctors-operating-room-performing-rhinoplasty_23-2149352207.jpg?size=626&ext=jpg'
+            image:'https://img.freepik.com/premium-psd/news-stage-virtual-set-design_472007-100.jpg?size=626&ext=jpg'
         },
         {
             id:4,
-            image:'https://img.freepik.com/free-photo/3d-render-hand-holding-heart-with-pulse-line-beat_107791-17213.jpg?size=626&ext=jpg'
+            image:'https://img.freepik.com/premium-psd/tv-news-studio-television-broadcast-room-interior-5-with-round-table-earth-globe-screen_639314-304.jpg?size=626&ext=jpg'
         },
         {
             id:5,

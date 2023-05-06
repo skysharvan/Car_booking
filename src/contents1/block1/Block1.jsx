@@ -33,10 +33,10 @@ const Block1 = () => {
   return (
     <>
         <Box1>
-          <Image src="https://img.freepik.com/free-photo/surgical-procedure-made-by-doctor-special-equipment_23-2148962517.jpg?size=626&ext=jpg" alt="" />
+          <Image src="https://img.freepik.com/premium-psd/poster-frame-living-room-psd-mockup_1150-56804.jpg?size=626&ext=jpg" alt="card" />
         </Box1>
         <Box2>
-          <Typography sx={{color:'#fff',fontSize:{md:'90px',sm:'60px',xs:'50px'}}}>HOSPITAL BLOG</Typography>
+          <Typography sx={{color:'#fff',fontSize:{md:'90px',sm:'60px',xs:'50px'}}}>STDIO BLOG</Typography>
         </Box2>
     </>
   )

@@ -2,7 +2,7 @@ export const pagination ={
      data:[
          {
              id:1,
-             image:'https://img.freepik.com/free-photo/medical-stethoscope-with-paper-cut-family_23-2148488217.jpg?size=626&ext=jpg',
+             image:'https://img.freepik.com/premium-psd/3d-news-studio_472007-103.jpg?size=626&ext=jpg',
              heading:'Discover the Marvels of Our World: The New Seven Wonders',
              location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
              text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -13,7 +13,7 @@ export const pagination ={
          },
          {  
             id:2,
-            image:'https://img.freepik.com/premium-photo/hospital-isometric-earth_258219-393.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/premium-psd/news-virtual-set_472007-97.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -24,7 +24,7 @@ export const pagination ={
         },
         {
             id:3,
-            image:'https://img.freepik.com/premium-photo/3d-rendering-hospital-interior-with-lots-copy-space_190619-1588.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/premium-psd/tv-news-studio-television-broadcast-room-interior-7-with-round-table-earth-globe-screen_639314-303.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -35,7 +35,7 @@ export const pagination ={
         },
         {
             id:4,
-            image:'https://img.freepik.com/free-photo/doctor-helping-patient-during-rehabilitation_23-2150321595.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/free-psd/world-photo-day-landing-page-template_23-2148623649.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -46,7 +46,7 @@ export const pagination ={
         },
         {  
             id:5,
-            image:'https://img.freepik.com/free-photo/interior-modern-equipped-dental-office-with-x-ray-monitors-dentist-stomatology-orthodontic-workplace_482257-2309.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/free-psd/square-discount-sale-podium_35913-2511.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -57,7 +57,7 @@ export const pagination ={
         },
         {
             id:6,
-            image:'https://img.freepik.com/premium-photo/portrait-young-woman-wears-disposable-hat-gloves-medical-mask-poses-with-fingers-crossing_176532-158.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/premium-psd/news-studio-with-desk_472007-96.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -68,7 +68,7 @@ export const pagination ={
         },
         {
             id:7,
-            image:'https://img.freepik.com/free-photo/beautiful-young-pretty-woman-with-healthy-skin-pink-flowers-close-face-isolated-white_186202-7858.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/premium-psd/3d-virtual-set-studio_472007-101.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -79,7 +79,7 @@ export const pagination ={
         },
         {
             id:8,
-            image:'https://img.freepik.com/free-photo/team-young-specialist-doctors-standing-corridor-hospital_1303-21203.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/premium-psd/modern-futuristic-blue-podium-blue-background-high-quality_542670-243.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -90,7 +90,7 @@ export const pagination ={
         },
         {
             id:9,
-            image:'https://img.freepik.com/free-photo/team-young-specialist-doctors-standing-corridor-hospital_1303-21203.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/premium-psd/show-stage-screen-mockup-design_417483-1711.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -101,7 +101,7 @@ export const pagination ={
         },
         {
             id:10,
-            image:'https://img.freepik.com/free-photo/young-girl-pediatrician-s-office-physical-examination_23-2149187423.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/free-psd/living-room-interior-mock-up_1104-101.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
