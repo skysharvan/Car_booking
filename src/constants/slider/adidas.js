@@ -10,7 +10,7 @@ export const adidas = [
            category:["Spring Rolls","Thali","sweets"],
            tagline: "Wrogn men solid black jeans",
            id:1,
-          image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCCPUxRZ47BzGnEc0Lxg0QxrpizXn8ZO5oYQ&usqp=CAU",
+          image:"https://img.freepik.com/premium-photo/beautiful-woman-with-evening-make-up_78203-1910.jpg?size=626&ext=jpg",
            rating:"4.3",
        },
 
@@ -25,7 +25,7 @@ export const adidas = [
            category:["Spring Rolls","Thali","sweets"],
            tagline: "Wrogn men solid black jeans",
            id:2,
-     image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShLFIKxlxYC7MAJyQPBT3M2eAxamkDHuyLgA&usqp=CAU",
+     image:"https://img.freepik.com/free-psd/beauty-natural-cosmetics-instagram-stories_23-2148894950.jpg?size=626&ext=jpg",
            rating:"4.3",
        },
        {
@@ -38,7 +38,7 @@ export const adidas = [
         },
            category:["Spring Rolls","Thali","sweets"],
            id:3,
-       image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTntEYeBv8OlenXEnPyauxxu1D0BWRQ9CtTHg&usqp=CAU",
+       image:"https://img.freepik.com/premium-photo/beautiful-smiling-makeup-artist-woman-with-brushes-hands_23-2148113349.jpg?size=626&ext=jpg",
        tagline: "Wrogn men solid black jeans",
            rating:"4.3",
        },
@@ -52,7 +52,7 @@ export const adidas = [
         },
            category:["Spring Rolls","Thali","sweets"],
            id:4,
-         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_-zLWR1BbZa8uSJNiFMKVjN1w9nNh4t5ffQ&usqp=CAU",
+         image: "https://img.freepik.com/free-photo/makeup-artist-applying-makeup-by-brush_329181-1926.jpg?size=626&ext=jpg",
          tagline: "Wrogn men solid black jeans",
            rating:"4.3",
        },
@@ -66,7 +66,7 @@ export const adidas = [
         },
            category:["Spring Rolls","Thali","sweets"],
            id:5,
-     image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKAHsSFh9RkL2X4mRec3Zquk9QDUmC5UpkQA&usqp=CAU",
+     image:"https://img.freepik.com/free-photo/makeup-artist-applying-makeup-by-brush_329181-1926.jpg?size=626&ext=jpg",
      tagline: "Wrogn men solid black jeans",
            rating:"4.3",
        },
@@ -81,7 +81,7 @@ export const adidas = [
            category:["Spring Rolls","RasGulla","sweets"],
            tagline: "Wrogn men solid black jeans",
            id:6,
-     image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfU1n42o2o0CoxLkggpZDGqeMRwZjJ79afcQ&usqp=CAU",
+     image:"https://img.freepik.com/free-photo/portrait-beautiful-woman-with-red-nails-glamour-makeup-long-black-hairs_186202-2805.jpg?size=626&ext=jpg",
 
            rating:"4.3",
        },
@@ -97,7 +97,7 @@ export const adidas = [
 
            tagline: "Wrogn men solid black jeans",
            id:7,
-          image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGNnx0HDxbpw7CGO1QloNGvrvpq_Fk1v00lg&usqp=CAU",
+          image:"https://img.freepik.com/premium-photo/splendid-makeup-smokey-eyes-style-face-young-beautiful-woman_353119-169.jpg?size=626&ext=jpg",
            rating:"4.3",
        },
 

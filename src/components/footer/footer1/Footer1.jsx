@@ -11,8 +11,8 @@ const Footer = () => {
               <Box sx={{color:'#fff',display:'flex',flexDirection:'column',gap:'7px'}}>
                 <h2>Resources</h2>
                 <Typography>Search Tours</Typography>
-                <Typography>Travel Deals & Promotions</Typography>
-                <Typography>Download Travel Brochures</Typography>
+                <Typography>parlour Deals & Promotions</Typography>
+                <Typography>Download parlour Brochures</Typography>
                 <Typography>Terms & conditions</Typography>
                 <Typography>Privacy Policy</Typography>
                 <Typography>Payment Guide</Typography>
@@ -22,10 +22,10 @@ const Footer = () => {
               <Box sx={{color:'#fff'}}>
                 <h2>Quick Link</h2>
                 <Typography>Why choose Odynovo</Typography>
-                <Typography>Meet Our Travel Experts</Typography>
+                <Typography>Meet Our parlour Experts</Typography>
                 <Typography>Review by Clients</Typography>
                 <Typography>Our Awards</Typography>
-                <Typography>Responsible Travel</Typography>
+                <Typography>Responsible parlour</Typography>
                 <Typography>Cookie Policy</Typography>
               </Box>
 

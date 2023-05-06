@@ -2,7 +2,7 @@ export const pagination ={
      data:[
          {
              id:1,
-             image:'https://makejourneys.com/assets/images-listing/1675162684154-Seven-Wonders-World.jpg',
+             image:'https://img.freepik.com/free-photo/side-view-stylist-with-eyeliner-working-with-model_23-2147783927.jpg?size=626&ext=jpg',
              heading:'Discover the Marvels of Our World: The New Seven Wonders',
              location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
              text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -13,7 +13,7 @@ export const pagination ={
          },
          {  
             id:2,
-            image:'https://makejourneys.com/assets/images-listing/1675162684154-Seven-Wonders-World.jpg',
+            image:'https://img.freepik.com/free-photo/portrait-beautiful-woman-with-white-straight-hairs-pink-eye-make-up-face-fashion-model-with-pink-lipstick-pretty-girl-posing_186202-7426.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -24,7 +24,7 @@ export const pagination ={
         },
         {
             id:3,
-            image:'https://makejourneys.com/assets/images-listing/1675162684154-Seven-Wonders-World.jpg',
+            image:'https://img.freepik.com/premium-photo/beautiful-hairstyle-woman-beauty-hair-fashion-makeup-red-lipstick-studio-shot_431835-4480.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -35,7 +35,7 @@ export const pagination ={
         },
         {
             id:4,
-            image:'https://makejourneys.com/assets/images-listing/1675162684154-Seven-Wonders-World.jpg',
+            image:'https://img.freepik.com/free-vector/square-flyer-template-beauty-salon_23-2148843580.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -46,7 +46,7 @@ export const pagination ={
         },
         {  
             id:5,
-            image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShLFIKxlxYC7MAJyQPBT3M2eAxamkDHuyLgA&usqp=CAU',
+            image:'https://img.freepik.com/free-photo/beautiful-woman-with-roses-hair_144627-16461.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -57,7 +57,7 @@ export const pagination ={
         },
         {
             id:6,
-            image:'https://makejourneys.com/assets/images-listing/1675162684154-Seven-Wonders-World.jpg',
+            image:'https://img.freepik.com/free-photo/cute-make-up-artist-close-up_23-2148328761.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -68,7 +68,7 @@ export const pagination ={
         },
         {
             id:7,
-            image:'https://makejourneys.com/assets/images-listing/1675162684154-Seven-Wonders-World.jpg',
+            image:'https://img.freepik.com/free-photo/beautiful-young-pretty-woman-with-healthy-skin-pink-flowers-close-face-isolated-white_186202-7858.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -79,7 +79,7 @@ export const pagination ={
         },
         {
             id:8,
-            image:'https://makejourneys.com/assets/images-listing/1675162684154-Seven-Wonders-World.jpg',
+            image:'https://img.freepik.com/premium-psd/circular-frame-with-cosmetics_23-2148600667.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -101,7 +101,7 @@ export const pagination ={
         },
         {
             id:10,
-            image:'https://makejourneys.com/assets/images-listing/1675162684154-Seven-Wonders-World.jpg',
+            image:'https://img.freepik.com/free-photo/beauty-fashion-woman-with-red-nails-lips-golden-eye-makeup-black-wall_186202-8567.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',

@@ -42,7 +42,7 @@ export default function Block11() {
         
         <Box sx={{display:'flex',flexDirection:'column',alignItems:'center',width:'100%',}}>
           <Typography sx={{fontFamily:'Dancing Script',fontSize:{md:'55px',xs:'25px'},color:'#222222',margin:'20px 0px'}}>Get Your Custom Itinerary with a Quote</Typography>
-          <Typography sx={{fontSize:{md:'18px',xs:'16px'},opacity:'0.7'}}>Already got a travel plan? Tell us by sending a quick inquiry below and a travel specialist will be in touch within 24 hours to help you plan your trip, individually</Typography>
+          <Typography sx={{fontSize:{md:'18px',xs:'16px'},opacity:'0.7'}}>Already got a parlour plan? Tell us by sending a quick inquiry below and a parlour specialist will be in touch within 24 hours to help you plan your trip, individually</Typography>
           <Typography sx={{fontSize:{md:'18px',xs:'16px'},opacity:'0.7'}}> focusing on your tastes and interests. This inquiry is not a commitment for booking.</Typography>
         </Box>
 
@@ -73,7 +73,7 @@ export default function Block11() {
 
           <Box sx={{width:{xs:'100%',sm:'100%',md:'50%', lg:'50%'}}}>
               <Box >
-                <h3>Number of travelers (age 12+)</h3>
+                <h3>Number of parlours (age 12+)</h3>
                 <FormControl sx={{width:'99.5%',}}>
                     <InputLabel id="demo-simple-select-label">Age</InputLabel>
                     <Select style={{height:'50px',backgroundColor:'#fff'}}

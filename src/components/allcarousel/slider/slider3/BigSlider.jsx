@@ -26,6 +26,7 @@ const SliderContainer = styled('div')({
 })
 const SliderInnerContainer = styled('div')({
   display: "flex",
+  gap:'30px !important',
   height:'300px',
   width:'100%',
   background:'#fff',
@@ -44,7 +45,7 @@ const PreviousBtn = (props) =>{
   
    return (
          <div className={className} onClick={onClick}>
-           <ChevronLeftOutlined sx={{color:'black',zIndex:'10',fontSize:'2.5rem' }} />
+           <ChevronLeftOutlined sx={{color:'black',zIndex:'500',fontSize:'2.5rem',cursor:'pointer' }} />
          </div>  
    )
 }
@@ -53,7 +54,7 @@ const NextBtn = (props) =>{
    const {className,onClick} = props;
    return (
      <div  className={className} onClick={onClick}>
-       <ChevronRightOutlined sx={{color:'black',  zIndex:'10',fontSize:'2.5rem'}} />
+       <ChevronRightOutlined sx={{color:'black',  zIndex:'500',fontSize:'2.5rem',cursor:'pointer'}} />
      </div>
    )
 }
@@ -66,7 +67,7 @@ const BigSlider = (props) => {
     arrows:true,
     infinite: true,
     speed: 500,
-    slidesToShow: 5,
+    slidesToShow: 4,
     slidesToScroll: 4,
     autoplay: true,
     autoplaySpeed: 4000,
