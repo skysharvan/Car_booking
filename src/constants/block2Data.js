@@ -2,27 +2,27 @@ export const block2Data = {
     data:[
         {
             id:1,
-            image:'https://img.freepik.com/premium-photo/makeup-brushes-with-pink-powder-haze_23-2148208956.jpg?size=626&ext=jpg'
+            image:'https://img.freepik.com/free-photo/doctor-helping-patient-during-rehabilitation_23-2150321625.jpg?size=626&ext=jpg'
         },
         {
             id:2,
-            image:'https://img.freepik.com/free-photo/two-girls-are-doing-make-up-front-big-professional-mirror_231208-3557.jpg?size=626&ext=jpg'
+            image:'https://img.freepik.com/free-photo/doctor-helping-patient-during-rehabilitation_23-2150321579.jpg?size=626&ext=jpg'
         },
         {
             id:3,
-            image:'https://img.freepik.com/premium-photo/beautiful-woman-with-perfect-make-up-manicure-wearing-jewellery_106029-55.jpg?size=626&ext=jpg'
+            image:'https://img.freepik.com/free-photo/doctors-operating-room-performing-rhinoplasty_23-2149352207.jpg?size=626&ext=jpg'
         },
         {
             id:4,
-            image:'https://img.freepik.com/free-vector/beauty-salon-stories-template-design_23-2148953613.jpg?size=626&ext=jpg'
+            image:'https://img.freepik.com/free-photo/3d-render-hand-holding-heart-with-pulse-line-beat_107791-17213.jpg?size=626&ext=jpg'
         },
         {
             id:5,
-            image:'https://img.freepik.com/free-psd/vertical-flyer-template-beauty-spa-with-woman-chamomile-flowers_23-2149001900.jpg?size=626&ext=jpg'
+            image:'https://img.freepik.com/free-photo/empty-hospital-reception-counter-hallway-waiting-room-seats-medical-examination-appointment-with-physician-registration-desk-with-waiting-area-help-patients-with-disease-diagnosis_482257-51632.jpg?size=626&ext=jpg'
         },
         {
             id:6,
-            image:'https://img.freepik.com/free-photo/beautiful-woman-face-with-fashion-green-make-up-jewelry-hand_186202-7081.jpg?size=626&ext=jpg'
+            image:'https://img.freepik.com/premium-photo/professional-doctors-operating-neurosurgery-modern-hospital-process_116317-25291.jpg?size=626&ext=jpg'
         },
     ]
 }

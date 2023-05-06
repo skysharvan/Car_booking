@@ -20,15 +20,15 @@ const Block2 = () => {
          
          <Box sx={{display:'flex',flexDirection:'column',justifyContent:'center',alignItems:'center',padding:{xs:'0px 15px',sm:'0px 20px',md:'15px'}}}>
             <Typography sx={{fontSize:{md:'20px',xs:'16px'} }}>As an award-winning tour operator, Odynovo has taken clients to 70+ destinations in Asia, the Middle East, Africa, Europe, and South America. Every year, tens of</Typography>
-            <Typography sx={{fontSize:{md:'20px',xs:'16px'} }}>thousands of discerning parlours work with our parlour specialists to customize their dream trips to some of the most fascinating destinations in the world. Over</Typography>
-            <Typography sx={{fontSize:{md:'20px',xs:'16px'} }}>98% of them rate their tours as excellent. It's easy to see why: they get the experience created uniquely based on their personal needs; they parlour without hassle</Typography>
+            <Typography sx={{fontSize:{md:'20px',xs:'16px'} }}>thousands of discerning hospital work with our hospital specialists to customize their dream trips to some of the most fascinating destinations in the world. Over</Typography>
+            <Typography sx={{fontSize:{md:'20px',xs:'16px'} }}>98% of them rate their tours as excellent. It's easy to see why: they get the experience created uniquely based on their personal needs; they hospital without hassle</Typography>
             <Typography sx={{fontSize:{md:'20px',xs:'16px'} }}> as everTyy detail is well looked after; and they return with memories they'll treasure for a lifetime.</Typography>
          </Box>
 
-         <Typography sx={{fontSize:{md:'45px',sm:'30px',xs:'25px'},display:'flex',justifyContent:'center',margin:'15px 0px',padding:{xs:'0px 15px',sm:'0px 20px',md:'15px'}}}>Where You Can parlour with Us in 2022 & 2023</Typography>
+         <Typography sx={{fontSize:{md:'45px',sm:'30px',xs:'25px'},display:'flex',justifyContent:'center',margin:'15px 0px',padding:{xs:'0px 15px',sm:'0px 20px',md:'15px'}}}>Where You Can hospital with Us in 2022 & 2023</Typography>
          <Box sx={{display:'flex',flexDirection:'column',justifyContent:'center',alignItems:'center',padding:{xs:'15px 15px',sm:'0px 20px',md:'15px',lg:'10px',xl:'10px'}}}>
-            <Typography sx={{fontSize:{md:'20px',xs:'16px'} }}>Browse these popular destinations that have reopened or will reopen their borders soon for international parlours and find inspiration for your next dreamy trip.</Typography>
-            <Typography sx={{fontSize:{md:'20px',xs:'16px'} }}>You can also contact one of our parlour specialists to create a new itinerary uniquely for you and your parlour companions. It's easy, quick, and totally hassle-free!</Typography>
+            <Typography sx={{fontSize:{md:'20px',xs:'16px'} }}>Browse these popular destinations that have reopened or will reopen their borders soon for international hospitals and find inspiration for your next dreamy trip.</Typography>
+            <Typography sx={{fontSize:{md:'20px',xs:'16px'} }}>You can also contact one of our hospital specialists to create a new itinerary uniquely for you and your hospital companions. It's easy, quick, and totally hassle-free!</Typography>
          </Box>
       </Box>
     </>
