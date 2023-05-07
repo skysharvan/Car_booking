@@ -2,7 +2,7 @@ export const pagination ={
      data:[
          {
              id:1,
-             image:'https://img.freepik.com/premium-psd/3d-news-studio_472007-103.jpg?size=626&ext=jpg',
+             image:'https://img.freepik.com/free-photo/driver-using-mobile-phone-navigation_53876-95136.jpg?size=626&ext=jpg',
              heading:'Discover the Marvels of Our World: The New Seven Wonders',
              location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
              text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -13,7 +13,7 @@ export const pagination ={
          },
          {  
             id:2,
-            image:'https://img.freepik.com/premium-psd/news-virtual-set_472007-97.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/free-photo/woman-traveling-with-her-car_23-2149076656.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -24,7 +24,7 @@ export const pagination ={
         },
         {
             id:3,
-            image:'https://img.freepik.com/premium-psd/tv-news-studio-television-broadcast-room-interior-7-with-round-table-earth-globe-screen_639314-303.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/free-photo/business-men-work-with-tablet-computers-their-cars_1359-1340.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -35,7 +35,7 @@ export const pagination ={
         },
         {
             id:4,
-            image:'https://img.freepik.com/free-psd/world-photo-day-landing-page-template_23-2148623649.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/free-photo/elegant-female-entrepreneur-get-car-drive-work-smiling-businesswoman-open-vehicle-door-looking-camera_197531-30463.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -46,7 +46,7 @@ export const pagination ={
         },
         {  
             id:5,
-            image:'https://img.freepik.com/free-psd/square-discount-sale-podium_35913-2511.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/premium-photo/positive-middle-eastern-woman-standing-by-car-showing-smartphone_116547-18486.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -57,7 +57,7 @@ export const pagination ={
         },
         {
             id:6,
-            image:'https://img.freepik.com/premium-psd/news-studio-with-desk_472007-96.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/free-photo/handsome-bearded-businessman-white-shirt-speaking-by-phone-entering-his-car-while-standing-outdoors-streets-city-near-modern-office-center_496169-517.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -68,7 +68,7 @@ export const pagination ={
         },
         {
             id:7,
-            image:'https://img.freepik.com/premium-psd/3d-virtual-set-studio_472007-101.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/free-photo/businesswoman-sitting-backseat-taxi_23-2149236711.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -90,7 +90,7 @@ export const pagination ={
         },
         {
             id:9,
-            image:'https://img.freepik.com/premium-psd/show-stage-screen-mockup-design_417483-1711.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/premium-photo/taxi-sign-city-map-with-stopwatch-route-concept-taxi-online-service-3d-illustration_505080-890.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -101,7 +101,7 @@ export const pagination ={
         },
         {
             id:10,
-            image:'https://img.freepik.com/free-psd/living-room-interior-mock-up_1104-101.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/premium-photo/blonde-woman-with-phone-street-european-city-eating-trdlo-praha_175356-4715.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',

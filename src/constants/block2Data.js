@@ -2,27 +2,27 @@ export const block2Data = {
     data:[
         {
             id:1,
-            image:'https://img.freepik.com/premium-psd/vertical-wooden-poster-frame-mockup-standing-near-black-wall-with-easel-room_613230-866.jpg?size=626&ext=jpg'
+            image:'https://img.freepik.com/free-photo/woman-driving-sunny-day_23-2148510649.jpg?size=626&ext=jpg'
         },
         {
             id:2,
-            image:'https://img.freepik.com/free-psd/banner-template-world-radio-day-with-broadcaster-microphone_23-2148863179.jpg?size=626&ext=jpg'
+            image:'https://img.freepik.com/premium-photo/smartphone-with-taxi-service-app-screen-black-background-table-office-environment-mobility-service-provider-worldwide_442713-4217.jpg?size=626&ext=jpg'
         },
         {
             id:3,
-            image:'https://img.freepik.com/premium-psd/news-stage-virtual-set-design_472007-100.jpg?size=626&ext=jpg'
+            image:'https://img.freepik.com/free-photo/brunette-businesswoman-inside-car_23-2148142610.jpg?size=626&ext=jpg'
         },
         {
             id:4,
-            image:'https://img.freepik.com/premium-psd/tv-news-studio-television-broadcast-room-interior-5-with-round-table-earth-globe-screen_639314-304.jpg?size=626&ext=jpg'
+            image:'https://img.freepik.com/free-photo/indian-businessman-backseat-working_496169-2754.jpg?size=626&ext=jpg'
         },
         {
             id:5,
-            image:'https://img.freepik.com/free-photo/empty-hospital-reception-counter-hallway-waiting-room-seats-medical-examination-appointment-with-physician-registration-desk-with-waiting-area-help-patients-with-disease-diagnosis_482257-51632.jpg?size=626&ext=jpg'
+            image:'https://img.freepik.com/free-photo/girl-laughs-sits-car_8353-9243.jpg?size=626&ext=jpg'
         },
         {
             id:6,
-            image:'https://img.freepik.com/premium-photo/professional-doctors-operating-neurosurgery-modern-hospital-process_116317-25291.jpg?size=626&ext=jpg'
+            image:'https://img.freepik.com/free-photo/portrait-young-female-taxi-driver-with-businessman-passenger-back-seat_58466-16275.jpg?size=626&ext=jpg'
         },
     ]
 }
